@@ -15,5 +15,7 @@ If you're thinking buying EverSpy and/or BrataRAT, I'll make you change your min
 
 5.Pre-compiled version is provided below, as I have received it.
 
+6. The same will happen if you're thinking getting it from https://everspy.sellix.io
+
 Download link: https://anonfiles.com/AdH9e2S6y7/EverSpy_V2_zip
 Zip password: everspyofficial@gmail.com
