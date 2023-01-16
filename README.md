@@ -13,7 +13,7 @@ If you're thinking buying EverSpy and/or BrataRAT, I'll make you change your min
 4. Finally, you'll just get a pre-compiled version of this "incredible" RAT, which you'll be able to use only with above mentioned "license" for the time he wants you to use it (not that much).
 
 
-5.Pre-compiled version is provided below, as I have received it.
+5. Pre-compiled version is provided below, as I have received it.
 
 6. The same will happen if you're thinking getting it from https://everspy.sellix.io
 
